@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Carta-de-Postres</title>
+    <title>CARTA DE POSTRES</title>
     <style>
       .list {
         width: max-content;
@@ -17,15 +17,15 @@
         box-shadow: 0px 0px 4px 2px #0003;
         overflow: hidden;
       }
-      .foto {https://www.google.com/url?sa=i&url=https%3A%2F%2Fmx.pinterest.com%2Fchrisaburto%2Freposteria-francesa%2F&psig=AOvVaw2Wbp1wDIZ8BmPpYpL7BNiW&ust=1738967629610000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDRxLqNsIsDFQAAAAAdAAAAABAR
+      .foto {https://i.pinimg.com/originals/94/1f/92/941f92c4f8791518dfa84607a90180fa.jpg
         height: 125px;
         width: 300px;
         background: rebeccapurple;
       }
-      .foto > img {https://cdn0.matrimonios.cl/vendor/0084/3_2/960/jpg/pasteleria-francesa_8_120084.jpeg
+      .foto > img {https://i.pinimg.com/originals/94/1f/92/941f92c4f8791518dfa84607a90180fa.jpg
         width: 300px;
       }
-      .titulo {
+      .titulo { carta de postres
           font-weight: bold;
           margin: 12px 16px;
       }
@@ -40,21 +40,17 @@
     </style>
   </head>
   <body>
-  
-        </ul>
-    </div>
-    
-    <div class="card">
-      <div class="foto"><img src="https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg"></div>
-      <div class="titulo">Taller de Programacion Web</div>
-      <div class="summary">Aprendemos a hacer paginas web.</div>
+    <h1>Taller de postres!</h1>
+      <div class="list">
+        <ul>
+   <div class="summary">Aprendemos a hornear con el corazon y hacemos que sea una experiencia unica en tu vida familiar y profesional, aprende de nosotros de nuestras mejores tecnicas usadas en el extranjero fucionadas con la cultura peruana hace una delicioso cultural sabor en el paladar.</div>
       <div class="more">Leer mas...</div>
-    </div>
 
-      <div class="card">
-      <div class="foto"><img src="https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg"></div>
-      <div class="titulo">Taller de Programacion Web II</div>
-      <div class="summary">Aprendemos a hacer más paginas web.</div>
+
+  <div class="card">
+      <div class="foto"><img src="https://i.pinimg.com/originals/94/1f/92/941f92c4f8791518dfa84607a90180fa.jpg></div>
+      <div class="titulo">Carta de Postres</div>
+      <div class="summary">Aprendemos a hornear con el corazon, cada mordizco es una experiencia genuina al paladar, digusta y a la ves prepara tus propios preparaciones a mano con la asesoria de los mejores docentes con experiencia profesional con una pasion en la pasteleria, no solo preparamos pasteles sino experiencias unicas.</div>
       <div class="more">Leer menos...</div>
     </div>
     
