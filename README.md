@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Taller IRT</title>
+    <title>Carta-de-Postres</title>
     <style>
       .list {
         width: max-content;
@@ -40,12 +40,7 @@
     </style>
   </head>
   <body>
-    <h1>Hola Taller!</h1>
-      <div class="list">
-        <ul>
-          <li>Adriana: <a href="https://adrianaffch.github.io/Portfolio/">Historia del Pop</a></li>
-          <li>Noelia: <a href="https://noeliazanga.github.io/Carta-de-Postres-/">Carta de Postres</a></li>
-          <li>Renatta: <a href="https://renatta41.github.io/CASA-DE-TE/">Casa de Té</a></li>
+  
         </ul>
     </div>
     
